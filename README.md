@@ -1,2 +1,3 @@
 # ControlPresupuesto
-Aplicaron Realizada en React para controlar los gastos realizados
+
+Aplicación Realizada en React para controlar los gastos realizados
